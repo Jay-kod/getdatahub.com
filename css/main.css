@@ -483,6 +483,7 @@ h6 {
   background-color: var(--accent1-color);
   width: 44px;
   height: 44px;
+  border: 1px groove white;
   border-radius: 50px;
   transition: all 0.4s;
 }
